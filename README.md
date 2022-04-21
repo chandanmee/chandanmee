@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandanmee
 - 👀 I’m interested in HTML, CSS, JS, Jquery, Bootstrap, Angular, MySQL, PHP, ReactJS and many more.
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Sample Ecommerce Project
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 - 📫 chandan@netclove.com
 - 📫 instagram.com/chandan_mee
