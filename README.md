@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandanmee
-- 👀 I’m interested in HTML, CSS, JS, Jquery, Bootstrap, Angular, MySQL, PHP, ReactJS and many more.
+- 👀 I’m interested in HTML, CSS, JS, Jquery, Bootstrap, MySQL, PHP, ReactJS and many more.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
