@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
-- 📫 chandan@netclove.com
+- 📫 sayhi@chandanmee.com
 - 📫 instagram.com/chandan_mee
 - 📫 facebook.com/chandanmee1
 - 📫 twitter.com/chandan_mee
