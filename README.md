@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 - 📫 sayhi@chandanmee.com
+- 📫 sayhitochandan@gmail.com
 - 📫 instagram.com/chandan_mee
 - 📫 facebook.com/chandanmee1
 - 📫 twitter.com/chandan_mee
